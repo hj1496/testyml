@@ -1,0 +1,11 @@
+users:
+  - name: alice
+    job: developer
+  - name: bob
+    job: developer
+  - name: charlie
+    job: manager
+  - name: dave
+    job: manager
+
+
